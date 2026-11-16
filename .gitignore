@@ -1,0 +1,9 @@
+# Ambiente virtual (cada pessoa cria o seu)
+.venv/
+
+# Arquivos pessoais de organização
+CHECKLIST.md
+
+# Arquivos automáticos do Jupyter e do Python
+.ipynb_checkpoints/
+__pycache__/
