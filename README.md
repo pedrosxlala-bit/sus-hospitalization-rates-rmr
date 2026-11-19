@@ -37,6 +37,10 @@ The dashboard (`painel_internacoes_rmr.pbix`) has two pages:
 - **Overview:** a choropleth map of the 14 municipalities, the ranking by rate, and cards with the RMR totals.
 - **Data:** the detailed table by municipality, with the totals.
 
+Clicking a municipality on the map or in the ranking filters the whole page:
+
+![Dashboard interaction](figures/dashboard.gif)
+
 Highlights:
 
 - **DAX measures** for total hospitalizations, total population and the rate. The RMR rate is computed as total hospitalizations ÷ total population × 1,000 (**73.6**), not as the average of the 14 municipal rates (69.1), which would give a small municipality the same weight as Recife.
