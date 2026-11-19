@@ -4,6 +4,9 @@
 # Arquivos pessoais de organização
 CHECKLIST.md
 
+# Malha original do IBGE (pesada; dá para baixar de novo no site do IBGE)
+data/geo/*.zip
+
 # Arquivos automáticos do Jupyter e do Python
 .ipynb_checkpoints/
 __pycache__/
